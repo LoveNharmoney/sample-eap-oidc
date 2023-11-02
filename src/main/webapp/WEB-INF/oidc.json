@@ -1,0 +1,9 @@
+{
+    "client-id" : "5e2cb930-7956-47d2-9c90-7ed6e60fe4f0",
+    "provider-url" : "https://login.microsoftonline.com/18054310-a6bc-4738-905f-1662abeb11a8/v2.0/",
+    "ssl-required" : "EXTERNAL",
+    "credentials" : {
+        "secret" : "fyW8Q~wvkYD4b2n9rvBxgAt2_5cGXDyCQgKJRatu"
+     }
+}
+
